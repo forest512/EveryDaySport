@@ -70,7 +70,17 @@
 #### 2018.03.26
 - [x] run 40 mins
 
+#### 2018.03.27
+- [x] zumba class: 1h 
 
+#### 2018.03.28
+- [x] zumba class: 1h 
+
+#### 2018.03.30
+- [x] zumba class: 1h 
+
+#### 2018.04.01
+- [x] running: 1h 
 
 
 
