@@ -83,8 +83,28 @@
 #### 2018.04.01
 - [x] running: 1h 
 
+#### 2018.04.02
+- [x] zumba class: 1h 
 
+#### 2018.04.03
+- [x] zumba class: 1h 
 
+#### 2018.04.05
+- [x] zumba class: 1h 
 
+#### 2018.04.07
+- [x] Runing: 1h
+
+#### 2018.04.10
+- [x] zumba class: 1h 
+
+#### 2018.04.11
+- [x] zumba class: 1h 
+
+#### 2018.04.12
+- [x] zumba class: 1h 
+
+#### 2018.04.14
+- [x] Running: 1h 
 
 
