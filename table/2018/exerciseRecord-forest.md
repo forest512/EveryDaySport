@@ -107,4 +107,10 @@
 #### 2018.04.14
 - [x] Running: 1h 
 
+#### From 04.15 to 04.30
+- [x] 1h zumba class once a day or two days
+- [x] Running one time
+- [x] Swimming one time
+
+
 
