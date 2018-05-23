@@ -129,6 +129,9 @@
 #### 05.21
 - [x] Running around the campus 3: 1h. 
 
+#### 05.22
+- [x] Zumba course: 0.45 h 
+
 
 
 
